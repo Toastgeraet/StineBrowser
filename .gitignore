@@ -1,3 +1,11 @@
+# Manually Added
+
+StineBrowser/bin/
+StineBrowser/obj/
+packages/
+
+# End of Manually Added
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
